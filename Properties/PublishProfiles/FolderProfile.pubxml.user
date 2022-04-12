@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Published Projects (temp)\RentalSystem</_PublishTargetUrl>
+    <History>True|2022-04-09T18:10:48.2468809Z;True|2022-03-08T17:39:07.0516223+03:30;True|2022-03-02T15:30:18.5519229+03:30;True|2022-03-02T14:07:07.2694159+03:30;True|2022-03-02T13:04:39.9786867+03:30;True|2022-03-02T13:02:23.3232792+03:30;True|2022-03-02T12:54:37.5610329+03:30;True|2022-03-02T12:48:13.5744413+03:30;True|2022-03-01T16:19:00.2147966+03:30;False|2022-03-01T16:16:02.7458607+03:30;False|2022-03-01T16:14:15.2335022+03:30;False|2022-03-01T15:45:14.9999039+03:30;False|2022-03-01T15:39:00.5037307+03:30;False|2022-03-01T15:37:02.9627953+03:30;True|2022-02-28T16:54:47.1767435+03:30;True|2022-01-09T11:14:20.4168221+03:30;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVOolQRRyykeHIYwHjvanEgAAAAACAAAAAAAQZgAAAAEAACAAAACZ+ZgmwdZD6z4kaL4F3UQIlJhz5a6qfQcwtasokr9wBgAAAAAOgAAAAAIAACAAAABlksSZ5MShkvmD+I2LW9ILCZU5NTROtVNan1901Gwb/jAAAAApS2aVv7u3rnyKW36BnzlifiZURKgg4GbwdRaGTYPggF1zI2QipOPIy4PwOXzCAQBAAAAAk+bZIAGgvnVQW3df4WWSxbaSuJvr+pmR+3+/3klZTJLpbwblEiBDpd8939mTuhdR59hFVjFBQspl86UyVDTkug==</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>10/27/2021 17:54:57</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>02/28/2022 18:29:50</publishTime>
+    </File>
+    <File Include="AutoMapper.dll">
+      <publishTime>07/01/2020 20:30:54</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
