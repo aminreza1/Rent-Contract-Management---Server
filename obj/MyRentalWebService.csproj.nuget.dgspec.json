@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Web Source Active\\MyRental\\MyRentalWebService\\MyRentalWebService.csproj": {}
+    "D:\\Projects\\Web Projects\\MyRental\\Rent-Management-Server\\MyRentalWebService.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Web Source Active\\MyRental\\MyRentalWebService\\MyRentalWebService.csproj": {
+    "D:\\Projects\\Web Projects\\MyRental\\Rent-Management-Server\\MyRentalWebService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Web Source Active\\MyRental\\MyRentalWebService\\MyRentalWebService.csproj",
+        "projectUniqueName": "D:\\Projects\\Web Projects\\MyRental\\Rent-Management-Server\\MyRentalWebService.csproj",
         "projectName": "MyRentalWebService",
-        "projectPath": "D:\\Projects\\Web Source Active\\MyRental\\MyRentalWebService\\MyRentalWebService.csproj",
+        "projectPath": "D:\\Projects\\Web Projects\\MyRental\\Rent-Management-Server\\MyRentalWebService.csproj",
         "packagesPath": "C:\\Users\\AminReza\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Web Source Active\\MyRental\\MyRentalWebService\\obj\\",
+        "outputPath": "D:\\Projects\\Web Projects\\MyRental\\Rent-Management-Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\AminReza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -108,7 +106,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
